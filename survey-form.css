@@ -1,0 +1,51 @@
+.check, .check-head {
+display:block;
+margin-bottom: 10px;
+margin-top:10px;
+
+}
+#title, #description{
+text-align:center;
+}
+#survey-form{
+text-align: left;
+margin-top: 10px;
+}
+#name-label, #name, #email, #number, #dropdown, #email-label, #number-label{
+text-align: left;
+display: block;
+width:200px;
+margin-bottom: 20px;
+}
+body{
+font-family: arial;
+width:80%;
+max-width: 500px;
+margin:auto;
+margin-bottom: 20px;
+background:linear-gradient(
+115deg,
+rgba(58, 58, 158, 0.8),
+rgba(136, 136, 206, 0.7)
+),
+url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+
+}
+#submit{
+margin:auto;
+display: block;
+width: 100px;
+height: 30px;
+border-size: 2px:
+border-color: blue;
+}
+#text-box {
+display: block;
+width: 300px;
+height: 100px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.check{
+font-size: 12px;
+}

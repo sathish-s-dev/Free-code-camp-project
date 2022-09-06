@@ -1,0 +1,47 @@
+main{
+  width:100%;
+  max-width: device-width;
+}
+header, #img-div, h3 {
+  text-align: center;
+}
+#image{
+  display: block;
+  width: 90%;
+  max-width: 100%;
+  height: auto;
+  margin: 10px auto 10px auto;
+  border-radius: 20px;
+  
+
+}
+h1{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+footer{
+  text-align: center;
+  font-size: 1.2em;
+  width: 100%;
+  
+}
+section{
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+  font-size: 1.2rem
+}
+li{
+  margin: 10px auto 10px auto;
+}
+body{
+  background-color: rgba(0,0,0, 0.99)
+}
+figure{
+  background-color: white;
+  border-radius: 20px
+}
+*{
+  color: white;
+}
